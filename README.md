@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @anirudh619
 - 👀 I’m interested in Data Sciene
 - 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ... Email me anirudhveerabathini1208@gmail.com
 
 <!---
